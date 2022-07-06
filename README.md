@@ -1,7 +1,6 @@
 # Important Links:
 1. Dataset - [Download from Google Images](https://github.com/RishabhkmrRK/Actors_image_classification_using_sklearn_with_EC2_model_deployment/tree/main/dataset/images)
-2. Model Training - 
-3. Model deployment - [AWS EC2 Instance](http://ec2-52-66-249-90.ap-south-1.compute.amazonaws.com)
+2. Model deployment - [AWS EC2 Instance](http://ec2-52-66-249-90.ap-south-1.compute.amazonaws.com)
     * Note: Due to limited dataset, model can only classify clear single person image with both eyes visible.
     
 # Languages and Tools used:
